@@ -34,8 +34,3 @@ Frontend default URL: `http://127.0.0.1:5173`
 - Frontend sample: `frontend/.env.example`
 
 > Tip: To customize the API URL, set `VITE_API_BASE_URL` in the frontend `.env` file.
-
-## Notes
-- The database is not implemented yet (no MySQL / SQLAlchemy / Alembic in this phase).
-- All endpoints are placeholders and will be replaced with real logic later.
-
