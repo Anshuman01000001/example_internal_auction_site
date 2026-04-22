@@ -34,3 +34,5 @@ Frontend default URL: `http://127.0.0.1:5173`
 - Frontend sample: `frontend/.env.example`
 
 > Tip: To customize the API URL, set `VITE_API_BASE_URL` in the frontend `.env` file.
+
+MongoDB Atlas cluster was used as the database.
